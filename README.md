@@ -1,7 +1,7 @@
 # GitPub
 
 
-![Alt text](image_url)
+![Alt text](file_0000000024cc71f7a411e879922fcc94.png)
 
 
 GitPub is a powerful command-line tool for monitoring and analyzing GitHub repositories across multiple keywords. It fetches, merges, and scores repositories to provide a trendiness report, helping you spot hot projects, emerging tools, and cross-signal patterns in real-time.
