@@ -52,12 +52,23 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-
+```bash
+deactivate
+```
+```bash
+python3 menu.py
+```
 ---
 
 Usage
 
-Run GitPub from the command line:
+Run menu:
+
+python3 menu.py
+
+or
+
+Run gitpub.py directly:
 
 python3 gitpub.py <keyword1> <keyword2> ... [--limit N] [--merge]
 
