@@ -1,4 +1,4 @@
-GitPub
+# GitPub
 
 GitPub is a powerful command-line tool for monitoring and analyzing GitHub repositories across multiple keywords. It fetches, merges, and scores repositories to provide a trendiness report, helping you spot hot projects, emerging tools, and cross-signal patterns in real-time.
 
