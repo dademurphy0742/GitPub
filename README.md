@@ -35,8 +35,8 @@ Installation
 
 
 
-git clone https://github.com/yourusername/gitpub.git
-cd gitpub
+git clone https://github.com/dademurphy0742/GitPub.git
+cd GitPub
 
 2. Install dependencies (requires Python 3.x):
 
