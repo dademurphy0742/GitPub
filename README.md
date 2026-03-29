@@ -41,14 +41,9 @@ cd GitPub
 2. Install dependencies (requires Python 3.x):
 
 
-
+python3 -m venv venv
+source venv/bin/activate
 pip install requests
-
-3. Ensure the scans directory exists:
-
-
-
-mkdir -p scans
 
 
 ---
