@@ -34,19 +34,24 @@ Installation
 1. Clone the repository:
 
 
-' ' 'bash
+```bash
 git clone https://github.com/dademurphy0742/GitPub.git
+```
+```bash
 cd GitPub
+```
 
 2. Install dependencies (requires Python 3.x):
 
-
+```bash
 python3 -m venv venv
-
+```
+```bash
 source venv/bin/activate
-
+```
+```bash
 pip install requests
-
+```
 
 ---
 
@@ -66,9 +71,9 @@ Options
 
 
 Example
-
+```bash
 python3 gitpub.py kali ai scraping cli --merge
-
+```
 This will:
 
 Fetch repositories for the keywords kali, ai, scraping, and cli.
