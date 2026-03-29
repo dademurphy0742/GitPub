@@ -34,7 +34,7 @@ Installation
 1. Clone the repository:
 
 
-'''bash
+' ' 'bash
 git clone https://github.com/dademurphy0742/GitPub.git
 cd GitPub
 
